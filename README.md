@@ -1,4 +1,5 @@
-# twit
+# ORIGINAL: twit
+# FORKED: mute-and-block-twitterbot
 
 Twitter API Client for node
 
